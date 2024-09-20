@@ -13,9 +13,15 @@ If you want to use {EDAName} 2.5 with a 2.4 {ControllerName} version, see link:{
  
 Use the following minimum requirements for {EDAcontroller}:
 
+<<<<<<< HEAD
 [cols=2*,options="header"]
 |===
 | Requirement | Required
+=======
+[cols="a,a",options="header"]
+|===
+h| Requirement | Required
+>>>>>>> 211aa11ca (Fix merge conflict)
 | *RAM* | 16 GB
 | *CPUs* | 4
 | *Local disk* a| 
