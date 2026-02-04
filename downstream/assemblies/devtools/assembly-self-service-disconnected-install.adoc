@@ -12,7 +12,11 @@ ifdef::context[]
 [id="self-service-disconnected-install_{context}"]
 endif::[]
 
+<<<<<<< HEAD
 = Install {SelfServiceShort} in air-gapped {OCPShort} environments
+=======
+= Install in an air-gapped environment
+>>>>>>> 88b572695 (JTBD header edits. (#5519))
 
 :context: self-service-disconnected-install
 
