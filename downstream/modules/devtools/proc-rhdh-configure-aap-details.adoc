@@ -1,7 +1,7 @@
 :_mod-docs-content-type: PROCEDURE
 
 [id="rhdh-configure-aap-details_{context}"]
-= Configuring Ansible Automation Platform details
+= Configure {PlatformNameShort} details
 
 [role="_abstract"]
 Connect {RHDH} to your automation controller by configuring the {PlatformNameShort} details. This configuration uses a Personal Access Token (PAT) to authenticate the plug-ins, which allows them to interact with your automation environment.

@@ -1,7 +1,7 @@
 :_mod-docs-content-type: PROCEDURE
 
 [id="rhdh-add-plugin-config_{context}"]
-= Adding the Ansible plug-ins configuration
+= Add the Ansible plug-ins configuration
 
 [role="_abstract"]
 Modify the Red Hat Developer Hub Helm chart to add the Ansible plug-ins. The configuration depends on the plug-in delivery method you chose earlier.

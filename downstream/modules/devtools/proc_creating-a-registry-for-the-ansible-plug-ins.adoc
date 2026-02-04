@@ -3,7 +3,11 @@
 :_mod-docs-content-type: PROCEDURE
 
 [id="rhdh-create-plugin-registry_{context}"]
+<<<<<<< HEAD:downstream/modules/devtools/proc_creating-a-registry-for-the-ansible-plug-ins.adoc
 = Creating a registry for the Ansible plug-ins
+=======
+= Create a registry for the {AAPRHDHShort}
+>>>>>>> 1cb4cfd1d (Applying updates to continue rebasing):downstream/modules/devtools/proc-rhdh-create-plugin-registry.adoc
 
 [role="_abstract"]
 Set up a registry in your OpenShift cluster to host the {AAPRHDHShort} and make them available for installation in {RHDH} ({RHDHShort}).
